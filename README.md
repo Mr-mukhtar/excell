@@ -1,6 +1,5 @@
 # excell
-
-A new Flutter project.
+open excel/xlsx file in flutter
 
 ## Getting Started
 
